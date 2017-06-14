@@ -61,7 +61,7 @@ If I move over this paragraph, it will display, I can hover over it.
 <html>
 <body>
 
-<h1 style="color:purple;">This is a Purple Heading</h1>
+<h1 style="color:red;">This is a Purple Heading</h1>
 
 </body>
 </html>
