@@ -42,3 +42,17 @@ Practicing on Della Ama Website
 
   </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The title attribute</h2>
+
+<p title="Title Tip">
+Mouse over this paragraph, to display the title attribute as a tooltip.
+</p>
+
+</body>
+</html>
