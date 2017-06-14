@@ -56,3 +56,12 @@ If I move over this paragraph, it will display, I can hover over it.
 
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:purple;">This is a Purple Heading</h1>
+
+</body>
+</html>
